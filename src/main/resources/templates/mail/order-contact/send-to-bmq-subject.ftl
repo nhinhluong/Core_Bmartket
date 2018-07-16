@@ -1,0 +1,1 @@
+Sản phẩm ${productName} từ yêu cầu ${orderCode}
